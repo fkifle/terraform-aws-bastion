@@ -39,7 +39,7 @@ variable "tags" {
 }
 
 variable "ami" {
-  default     = ""
+  default     = "ami-00efc1596100591b6"
   description = "(Optional) Specify an ami_id for the bastion you would like to use."
 }
 
